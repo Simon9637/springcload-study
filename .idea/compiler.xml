@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springcloud-study" />
+        <module name="springcloud-Eureka-client" />
+        <module name="springcloud-Eureka-server" />
+        <module name="springcloud-ribbon" />
       </profile>
     </annotationProcessing>
   </component>
